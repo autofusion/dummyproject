@@ -60,7 +60,7 @@ public class AppTest{
 	public void verifyMultiplyAccount(){
 		
 	
-		System.out.println("Inside mutiply account");
+		System.out.println("Inside mutiply account   ");
 		
 		Assert.assertEquals(app.mutiplyAccount(4, 5),20);
 	}
