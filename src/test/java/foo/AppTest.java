@@ -69,7 +69,7 @@ public class AppTest{
 	public void verifyDeleteAccount(){
 		
 	
-		System.out.println("Inside Delete  account");
+		System.out.println("Inside Delete  account ");
 		
 		Assert.assertEquals(app.deleteAccount(10, 5),5);
 	}
